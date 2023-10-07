@@ -6,6 +6,8 @@ This is a version of a pitch deck app, made using React.
 
 Feel free to use and remix under an MIT license.
 
+![Eye Captain Logo](./public/eye_captain.png)
+
 ## Running The App
 
 First, git clone the app.
