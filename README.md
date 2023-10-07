@@ -6,4 +6,3 @@ This is a version of a pitch deck app, made using React.
 
 Feel free to use and remix under an MIT license.
 
-Compare to the Svelte version of this same app to see the framework difference.
