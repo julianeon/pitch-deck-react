@@ -8,7 +8,7 @@ This is a version of a pitch deck app, made using React.
 
 I wrote about it on [JavaScriptPage](https://javascriptpage.com/react-svelte-pitch-deck-app-comparison).
 
-Live demo [here](http://pitch-deck-react.s3-website-us-east-1.amazonaws.com/).
+Live demo [here](http://pitch-deck-react.s3-website-us-east-1.amazonaws.com/). Click images to advance.
 
 ![Eye Captain Logo](./public/eye_captain.png)
 
